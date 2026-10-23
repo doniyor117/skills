@@ -1,6 +1,6 @@
 # Voice references
 
-These examples are evidence, not templates. Their labels matter: original writing and approved assistant drafts are different kinds of evidence. New drafts should fit the new task.
+These examples are evidence, not templates. The first is directly supplied original writing; the next two are fuller samples recovered from the previous guide, with their editing history stated explicitly. Their labels matter: original writing and approved assistant drafts are different kinds of evidence. New drafts should fit the new task.
 
 ## 1. Doniyor’s own reply to screening questions
 
@@ -34,7 +34,41 @@ A possible light edit of the opening and closing, **illustrative and not separat
 
 The small scale of that edit is the point. It is not a replacement template for every reply.
 
-## 2. Approved English CV summary
+## 2. Full Uzbek application sample: Najot Ta'lim
+
+Source: the original writing PDF labels this “his own writing, lightly tightened.” The complete sample is restored below as it appeared there, with PDF line wrapping removed. It is not an untouched original message: the earlier guide had already lightly edited it. No new wording corrections have been applied here. The application context, study year, and experience duration are historical, not instructions to reuse those facts today.
+
+> Assalamu aleykum.
+>
+> School 21 da Data Science yo'nalishi bo'yicha 1 yildan ziyod o'qib kelmoqdaman. Machine Learning, Neural Networks va AI Agents bo'yicha yaxshi tushunchalarim bor, ko'plab loyihalar qilganman. Claude va Gemini yordamida AdvoAI loyihasiga asos soldik (https://advoai.uz/about), Prezident maktabi o'quvchilari uchun 400+ betli ingliz tili kitobini AI agentlar yordamida yaratib, chop etdirdik. n8n bilan bir qancha Telegram va Notion avtomatlashtirish loyihalarini ham qilganman.
+>
+> Hozirda Samarqandda yashayman, 3-kurs talabasiman. Najot Ta'limning Samarqand filialida Prompt Engineering bo'yicha ta'lim bermoqchiman. Amaliy loyiha orqali o'rgatish menga yaqin usul, chunki o'zim ham shu yo'l bilan o'rgandim. Promptlarni tuzishda few-shot va chain-of-thought yondashuvlarini kundalik ishimda qo'llayman.
+>
+> O'quvchilarga vositalarni emas, ular ortidagi mantiqni ko'rsatishni maqsad qilaman, chunki modellar o'zgaradi, fikrlash usuli qoladi.
+>
+> Suhbatga taklif qilsangiz, loyihalarimni va o'quv jarayonini qanday qurishimni batafsil ko'rsataman. Javobingizni kutib qolaman.
+
+Read the whole sequence: named work, the actual role, why practical teaching suits him, and an ordinary invitation to discuss it. Notice the English technical terms inside Uzbek sentences and the team verbs “asos soldik” and “yaratib, chop etdirdik.” Preserve those kinds of choices when appropriate. Do not require the same greeting, paragraph order, or sentence about how models change in unrelated applications.
+
+## 3. Full English application sample: JNG Technologies
+
+Source: the original PDF describes this as “Built from his own draft.” The exact division between Doniyor’s wording and earlier editing is not recorded. Treat it as a draft-based reference, not a verified verbatim message or a newly approved draft. The complete sample is restored with only the GPA replaced by an explicit redaction and PDF line wrapping removed. Its dates, study year, and experience statements belong to that application.
+
+> I'm a third-year Management student in Samarkand (GPA [score omitted]) and I've been studying Data Science at School 21 since August 2025.
+>
+> I have two reasons for choosing JNG Technologies.
+>
+> First, I'm really interested in logistics and inventory management. It started with the Global Supply Chain Management course at my university, and it grew into the area I've spent the most portfolio time on, analysing shipping and delivery data in projects like DataCo and Olist. A late shipment in a dataset is one row. I'd like to see what it takes to prevent it in real work.
+>
+> Second, I want a job where I speak English every day and work with international clients. That kind of experience is exactly what I'm looking for at this stage.
+>
+> I don't have office experience yet, but I'm a fast learner. I've been self-studying programming and Data Science since 2025, and I'd bring the same energy to learning your work.
+>
+> Thank you for your attention! I'd really enjoy the chance to meet your team and talk more in an interview.
+
+The reasons are concrete and different from one another. The gap appears once, and the ending is warm. “A late shipment in a dataset is one row” belongs to this particular explanation; do not turn it into a required slogan. “I'm a fast learner” remains here because this is a reference, not a fresh rewrite. Do not silently edit source examples to make them obey the guide.
+
+## 4. Approved English CV summary
 
 Source: assistant-drafted wording explicitly approved by Doniyor on 23 October 2026. This is a useful reference for professional prose, not a claim that he wrote it unaided.
 
@@ -42,7 +76,7 @@ Source: assistant-drafted wording explicitly approved by Doniyor on 23 October 2
 
 The paragraph connects background, how he learned, concrete work, and what he wants next. The career goal belongs here because it is a CV summary. Do not copy the whole sequence into an answer about interview timing.
 
-## 3. Approved About paragraph
+## 5. Approved About paragraph
 
 Source: assistant-drafted wording explicitly approved by Doniyor during the portfolio revision in October 2026.
 
@@ -50,15 +84,7 @@ Source: assistant-drafted wording explicitly approved by Doniyor during the port
 
 The middle sentence adds personal context that the opening lacked. It is grounded in his approved account. It is not permission to invent interests or to give every paragraph a “challenge” story.
 
-## 4. Uzbek voice excerpt
-
-Source: the previous writing guide identified this as Doniyor’s own wording, lightly tightened. Only a short excerpt is retained here; old application-specific details are not reproduced.
-
-> Amaliy loyiha orqali o‘rgatish menga yaqin usul, chunki o‘zim ham shu yo‘l bilan o‘rgandim.
-
-This connects a preference with a reason in one ordinary sentence. Keep that natural relation between ideas. Do not translate English syntax word for word or turn every explanation into a slogan.
-
-## 5. Recent corrections that should guide judgement
+## 6. Recent corrections that should guide judgement
 
 - He rejected “I’m looking for my first HR role” as the main HR page heading. A headline centred on lack of experience did not represent him well. That does not prohibit an honest statement of experience in a relevant answer.
 - He approved “Let’s talk.” for the analyst contact heading, with a straightforward supporting sentence about a role or internship. Not every heading needs a clever line.
@@ -66,7 +92,7 @@ This connects a preference with a reason in one ordinary sentence. Keep that nat
 - He chose “Russian (comprehension)” as the English proficiency label, with “tushunish” in Uzbek and “понимание” in Russian.
 - He rejected the previous guide’s rigidity. Do not treat the examples in this revised guide as a new set of compulsory phrases.
 
-## 6. Editorial contrasts
+## 7. Editorial contrasts
 
 These are new illustrations of the guidance, not additional approved quotations.
 

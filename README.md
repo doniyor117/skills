@@ -4,7 +4,7 @@ A practical voice reference for agents helping me write in English, Uzbek, and R
 
 **[Download the complete PDF](doniyors-writing-skill.pdf)** · **[Read the skill](SKILL.md)** · **[Read the examples](references/examples.md)**
 
-Version 2.0, 23 October 2026. The PDF includes the skill, examples, and public context. The Markdown files are the source of truth.
+Version 2.1, 23 October 2026. The PDF includes the skill, examples, and public context. The Markdown files are the source of truth.
 
 ## Use it
 
@@ -22,13 +22,15 @@ The earlier guide required particular openings, closing lines, paragraph structu
 
 This edition replaces those formulas with contextual guidance. It distinguishes original writing, approved assistant drafts, and illustrative suggestions. It keeps a few clear preferences, such as no em dashes, accurate team credit, and natural translations. The new screening reply is included with sensitive details redacted.
 
+Version 2.1 restores the complete Uzbek Najot Ta'lim sample and English JNG Technologies sample from the earlier guide. Their original wording is preserved, apart from an explicit GPA redaction and removal of PDF line wrapping. The Uzbek sample was previously described as lightly tightened; the English sample was built from his draft. Neither is mislabelled as an untouched original message.
+
 The old PDF is deliberately not committed. It contained personal details that do not belong in a public style guide.
 
 ## Update it
 
-1. Identify a real mismatch: save what the agent wrote, what you preferred, and why. Use a short example, not an entire private conversation.
+1. Identify a real mismatch: save what the agent wrote, what you preferred, and why. Keep enough of the message to show its natural flow. A complete letter can be more useful than an isolated sentence; do not publish an entire private conversation.
 2. Edit `SKILL.md` only if the lesson applies beyond that one message. Avoid converting one correction into a universal ban or required phrase.
-3. Add useful evidence to `references/examples.md`. Label it as **Doniyor’s original writing**, **assistant draft explicitly approved by Doniyor**, or **illustrative suggestion**. Give the date and context. Approval should be explicit, not inferred from silence.
+3. Add useful evidence to `references/examples.md`. Label it as **Doniyor’s original writing**, **assistant draft explicitly approved by Doniyor**, or **illustrative suggestion**. For an older sample with partial editing history, state exactly what is known instead of forcing it into an authorship category. Give the date and context. Approval should be explicit, not inferred from silence.
 4. Update `references/public-context.md` only for useful public facts. Keep changing personal details out of the guide. Link to the current source instead of maintaining a second CV here.
 5. Check the public diff. Remove phone numbers, personal email addresses, exact pay, grades or scores, schedules, private employer conversations, credentials, and identifying details about other people. Public examples may use explicit bracketed redactions. Do not commit the unredacted original first: deleting it later leaves it in Git history.
 6. Update the version/date in the guide and README, and describe the reason in `CHANGELOG.md`.

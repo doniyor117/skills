@@ -5,13 +5,13 @@ description: Draft or edit text in Doniyor's voice in English, Uzbek, or Russian
 
 # Doniyor’s writing
 
-Version 2.0 · 23 October 2026 · Public edition
+Version 2.1 · 23 October 2026 · Public edition
 
 Help Doniyor say what he means in language he would use. The goal is a useful answer that sounds like him, not a recognisable “personal brand” repeated everywhere.
 
 This guide applies to emails, application answers, cover letters, CVs, portfolio writing, and spoken introductions. It is a reference for judgement, not a script. Follow his current request, the recipient’s actual questions, and any stated length limit before defaults in this file.
 
-Read `references/examples.md` for voice evidence. Read `references/public-context.md` only when background facts are needed. When sharing just one file with an agent, use the PDF, which includes all three documents.
+Read the full samples in `references/examples.md` before drafting: they show the flow of complete messages, not just isolated phrases. Give the directly supplied original message and clearly attributed source samples more weight than the new illustrative contrasts. Read `references/public-context.md` only when background facts are needed. When sharing just one file with an agent, use the PDF, which includes all three documents.
 
 ## Start with the task, not a biography
 
