@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "doniyor-skills",
+  "owner": {
+    "name": "Doniyor",
+    "url": "https://github.com/doniyor117"
+  },
+  "description": "Doniyor's custom skills.",
+  "plugins": [
+    {
+      "name": "no-ai-slop",
+      "source": "./no-ai-slop",
+      "description": "Write prose that reads like a person wrote it, not a language model.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "prose", "style", "ai-slop", "humanize"]
+    },
+    {
+      "name": "doniyors-writing",
+      "source": "./doniyors-writing",
+      "description": "Draft or edit text in Doniyor's voice in English, Uzbek, or Russian.",
+      "keywords": ["writing", "voice", "email", "applications"]
+    }
+  ]
+}
