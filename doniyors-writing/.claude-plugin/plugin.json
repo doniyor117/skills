@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "doniyors-writing",
+  "version": "2.1.0",
+  "description": "Draft or edit text in Doniyor's voice in English, Uzbek, or Russian.",
+  "author": {
+    "name": "Doniyor",
+    "url": "https://github.com/doniyor117"
+  },
+  "homepage": "https://github.com/doniyor117/skills/tree/main/doniyors-writing",
+  "repository": "https://github.com/doniyor117/skills",
+  "keywords": ["writing", "voice", "email", "applications"],
+  "skills": ["./"]
+}
