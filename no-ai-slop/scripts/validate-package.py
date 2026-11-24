@@ -38,9 +38,6 @@ def fail(message: str) -> None:
 skill = SKILL_PATH.read_text(encoding="utf-8")
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
 plugin = json.loads((ROOT / ".claude-plugin" / "plugin.json").read_text(encoding="utf-8"))
-marketplace = json.loads(
-    (ROOT / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8")
-)
 
 # --- frontmatter ------------------------------------------------------------
 
@@ -90,8 +87,6 @@ if SKILL_PATH.is_symlink() or found != {Path("SKILL.md")}:
     fail(f"keep exactly one regular SKILL.md at the repo root, found {sorted(map(str, found))}")
 if plugin.get("skills") != ["./"]:
     fail('plugin.json must set "skills": ["./"] so the loader finds the root skill')
-if [p.get("source") for p in marketplace.get("plugins", [])] != ["./"]:
-    fail('marketplace.json must list one plugin with "source": "./"')
 
 # --- the skill's own rules --------------------------------------------------
 

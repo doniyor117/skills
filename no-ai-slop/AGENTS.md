@@ -27,9 +27,9 @@ Keep the pattern list in `SKILL.md` until it passes 50 patterns or the file pass
 ## Before you push
 
 ```bash
-python3 scripts/validate-package.py
-npx --yes skills@1.5.20 add . --list
-claude plugin validate .
+python3 scripts/validate-package.py   # run from no-ai-slop/
+npx --yes skills@1.5.20 add .. --list
+claude plugin validate ..
 ```
 
 CI runs all three on every push and pull request.

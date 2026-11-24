@@ -7,8 +7,8 @@
     "name": "Doniyor",
     "url": "https://github.com/doniyor117"
   },
-  "homepage": "https://github.com/doniyor117/no-ai-slop",
-  "repository": "https://github.com/doniyor117/no-ai-slop",
+  "homepage": "https://github.com/doniyor117/skills/tree/main/no-ai-slop",
+  "repository": "https://github.com/doniyor117/skills",
   "license": "MIT",
   "keywords": ["writing", "editing", "prose", "style", "ai-slop", "humanize"],
   "skills": ["./"]

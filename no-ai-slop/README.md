@@ -11,20 +11,20 @@ One `SKILL.md` on the [Agent Skills](https://agentskills.io) standard, so it loa
 **Any agent**, through the [skills](https://skills.sh) CLI:
 
 ```bash
-npx skills add doniyor117/no-ai-slop
+npx skills add doniyor117/skills --skill no-ai-slop
 ```
 
 **Claude Code**, as a plugin:
 
 ```
-/plugin marketplace add doniyor117/no-ai-slop
-/plugin install no-ai-slop@no-ai-slop
+/plugin marketplace add doniyor117/skills
+/plugin install no-ai-slop@doniyor-skills
 ```
 
 **By hand**, into your skills directory:
 
 ```bash
-git clone https://github.com/doniyor117/no-ai-slop ~/.claude/skills/no-ai-slop
+git clone https://github.com/doniyor117/skills && cp -r skills/no-ai-slop ~/.claude/skills/
 ```
 
 Use `.claude/skills/no-ai-slop` instead to scope it to one project.
